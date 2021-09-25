@@ -1,2 +1,2 @@
-# intro_redes_RLP
-Materiales para taller de análisis de redes R-Ladies Puebla
+# intro_analysis_redes
+Taller - Introducción al análisis de redes para R Ladies Puebla 
