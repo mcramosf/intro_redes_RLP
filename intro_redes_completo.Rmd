@@ -2,7 +2,7 @@
 title: "Introducción al Anális de R-edes"
 output: html_notebook
 editor_options: 
-  chunk_output_type: console
+  chunk_output_type: inline
 ---
 
 1. Carga de paquetes 
